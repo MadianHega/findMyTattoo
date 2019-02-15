@@ -10,10 +10,10 @@ Le projet est incuber depuis janvier 2019 et la première version de l'applicati
 
 ## Stack
 **ReactJs**   
-    create-react-app myapp    
+     create-react-app myapp        
 **Redux**  
-    npm install --save redux react-redux    
+     npm install --save redux react-redux         
 **NodeJS && ExpressJs**  
-    express --view=ejs --git myapp        
+     express --view=ejs --git myapp     
 **MongoDb && Mongoose**
-    npm install mongoose --save    
+     npm install mongoose --save         
