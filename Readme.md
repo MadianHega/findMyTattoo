@@ -15,5 +15,5 @@ Le projet est incuber depuis janvier 2019 et la première version de l'applicati
      npm install --save redux react-redux         
 **NodeJS && ExpressJs**  
      express --view=ejs --git myapp     
-**MongoDb && Mongoose**
+**MongoDb && Mongoose**  
      npm install mongoose --save         
